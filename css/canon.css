@@ -631,6 +631,7 @@ footer .copy {
   position: absolute;
   top: 111px;
   left: 0;
+  width:100%;
   display: none;
 }
 
